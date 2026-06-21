@@ -36,6 +36,9 @@
 * Responsive Login Page
 
 📫 Contact Me
+
 📧 Email: himambasha2828@gmail.com
+
 💼 Open to Software Developer Opportunities
+
 🌐 GitHub: https://github.com/Himambasha1828
