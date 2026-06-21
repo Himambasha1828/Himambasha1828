@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Himam Basha 👋
 
-<!--
-**Himambasha1828/Himambasha1828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Full Stack Developer | Backend Developer
 
-Here are some ideas to get you started:
+🌱 Currently learning Machine Learning and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+* Python
+* Django
+* Django REST Framework (DRF)
+* REST APIs
+* SQL
+* HTML5
+* CSS3
+* Bootstrap
+* Git & GitHub
+* Machine Learning
+* Pandas
+* NumPy
+* Matplotlib
+
+📂 Featured Projects
+
+* AI Employee Salary Prediction
+* Customer Churn Analysis using Python, Pandas & Visualization
+* Online Learning Management System (LMS Portal)
+* Sales Data Analysis Dashboard
+* DRF API Logger
+* E-Commerce Website
+* Student Management System
+* To-Do Application
+* Password Generator
+* Simple_Calculator
+* Responsive Restaurant Website
+* Responsive Login Page
+
+📫 Contact Me
+📧 Email: himambasha2828@gmail.com
+💼 Open to Software Developer Opportunities
+🌐 GitHub: https://github.com/Himambasha1828
