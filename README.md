@@ -1,6 +1,6 @@
 # Hi, I'm Himam Basha 👋
 
-💻 Python Full Stack Developer | Backend Developer
+💻 Data Analyst | Backend Developer | Python Developer
 
 🌱 Currently learning Machine Learning and building real-world projects.
 
