@@ -7,18 +7,19 @@
 🚀 Tech Stack
 
 * Python
-* Django
-* Django REST Framework (DRF)
-* REST APIs
+* MS Excel
+* Power BI
+* MySQL
 * SQL
-* HTML5
-* CSS3
-* Bootstrap
 * Git & GitHub
-* Machine Learning
+* Gen Ai Enthusiast
 * Pandas
 * NumPy
 * Matplotlib
+* Django
+* Django Rest Framework
+* REST APIs
+* Ai Tools: Chatgpt, Copilot
 
 📂 Featured Projects
 
@@ -26,6 +27,7 @@
 * Customer Churn Analysis using Python, Pandas & Visualization
 * Online Learning Management System (LMS Portal)
 * Sales Data Analysis Dashboard
+* HR Data Analysis Dashboard
 * DRF API Logger
 * E-Commerce Website
 * Student Management System
@@ -39,6 +41,6 @@
 
 📧 Email: himambasha2828@gmail.com
 
-💼 Open to Software Developer Opportunities
+💼 Open to Data Analyst & Python Developer Opportunities
 
 🌐 GitHub: https://github.com/Himambasha1828
