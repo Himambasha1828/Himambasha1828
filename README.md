@@ -1,6 +1,6 @@
 # Hi, I'm Himam Basha 👋
 
-💻 Data Analyst | Backend Developer | Python Developer
+💻 Data Analyst | SQL | Python | Power BI | Financial Reporting & Data Analysis. 
 
 🌱 Currently learning Machine Learning and building real-world projects.
 
@@ -16,32 +16,20 @@
 * Pandas
 * NumPy
 * Matplotlib
-* Django
-* Django Rest Framework
-* REST APIs
 * Ai Tools: Chatgpt, Copilot
 
 📂 Featured Projects
 
 * AI Employee Salary Prediction
 * Customer Churn Analysis using Python, Pandas & Visualization
-* Online Learning Management System (LMS Portal)
 * Sales Data Analysis Dashboard
 * HR Data Analysis Dashboard
-* DRF API Logger
-* E-Commerce Website
-* Student Management System
-* To-Do Application
-* Password Generator
-* Simple_Calculator
-* Responsive Restaurant Website
-* Responsive Login Page
-
+  
 📫 Contact Me
 Mobile No: 8179829150
 
 📧 Email: himambashashaik18@gmail.com
 
-💼 Open to Data Analyst & Python Developer Opportunities
+💼 Open to Data Analyst & Power BI Developer Opportunities
 
 🌐 GitHub: https://github.com/Himambasha1828
