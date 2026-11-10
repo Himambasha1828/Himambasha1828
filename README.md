@@ -2,7 +2,7 @@
 
 💻 Data Analyst | SQL | Python | Power BI | Financial Reporting & Data Analysis. 
 
-🌱 Currently learning Machine Learning and building real-world projects.
+🌱 Currently learning Artificial Intelligence (Ai) and building real-world projects.
 
 🚀 Tech Stack
 
